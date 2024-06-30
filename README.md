@@ -11,7 +11,6 @@
 > [!IMPORTANT]
 > This project was never intended to be maintained.
 > 
-> There is no Anti-Aims because i want to.
 > Cheat currently on auto update and probably detected.
 
 # About
