@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SandFoxy/SCPSL-Cheat/">
-    <img src="Menu.pnh" alt="Menu" width="240" height="240">
+    <img src="Menu.png" alt="Menu" width="240" height="240">
   </a>
   <br>
   <br>
