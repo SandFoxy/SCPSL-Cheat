@@ -18,6 +18,10 @@
 
 A small project that has become almost the most popular cheat on SCP:SL. Initially updated manually and IL2CPP was not provided. Good luck using IL2CPP resolver somewhere other than engine.cpp
 
+A bunch of shit code
+
+And also no menu so cry about it
+
 # Features
 
 ## Aimbot
